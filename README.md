@@ -1,4 +1,4 @@
-# ✊🖐✌️ Rock Paper Scissors – Apna College Style
+# ✊🖐✌️ Rock Paper Scissors
 
 This is a fun **Rock Paper Scissors** (Stone Paper Scissors) game built with **HTML, CSS, and JavaScript**, inspired by the **Apna College web dev series**. The project is part of my learning with the **DevWeekend Fellowship** 🚀.
 
