@@ -4,18 +4,18 @@ This is a fun **Rock Paper Scissors** (Stone Paper Scissors) game built with **H
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Kaniz Sukayna**, currently exploring JavaScript basics and learning how to make websites interactive. This mini game helped me understand how to build logic, update the DOM, and style elements the Apna College way!
+Hi! I'm **Kaniz Sukayna**, currently exploring JavaScript basics and learning how to make websites interactive. This mini game helped me understand how to build logic, update the DOM, and style elements!
 
 ## 🧰 Tech Stack
 
 - **HTML5** – For buttons and structure.
-- **CSS3** – For Apna College–inspired styling and layout.
+- **CSS3** – For styling and layout.
 - **JavaScript** – For handling user choices, comparing with computer choices, and showing results.
 
 ## 🗂 Files in This Project
 
 - `index.html` – Layout and emoji buttons.
-- `style.css` – Styling in Apna College theme (blue + yellow).
+- `style.css` – Styling in asthetic theme (grey + black).
 - `script.js` – Handles game logic and result display.
 
 ## 🔧 How to Play
